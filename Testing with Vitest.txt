@@ -1,0 +1,9 @@
+Day 26: Testing with Vitest se humne ye seekha:
+1. Vitest: JavaScript code ko automatically test karna.
+2. React Component Testing: Check karna ke component ka heading aur task title sahi display ho rahe hain.
+3. API Testing: Verify karna ke API sahi HTTP status (200) aur JSON response return karti hai.
+4. Assertions: expect() ke through actual result ko expected result se compare karna.
+5. Mock Functions: vi.fn() se API response methods ko simulate karna.
+6. Error Detection: Code ki problems identify karna aur tests pass karwana.
+Short conclusion: Humne seekha ke automated testing se application ke components aur APIs ki correctness verify hoti hai aur code ki reliability improve hoti hai.
+Result: Hamare project mein 2 test files aur total 3 tests successfully pass hue. ✅
